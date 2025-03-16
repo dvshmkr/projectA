@@ -9,6 +9,10 @@ then
 fi
 
 echo "Begin processing"
+while [ true ]
+do
+    :
+done
 
 
 DATA="${1}"
