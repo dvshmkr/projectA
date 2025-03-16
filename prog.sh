@@ -7,6 +7,7 @@ then
     echo "Invalid number of arguments; provide an input filename"
     exit 
 fi
+DATA="${1}"
 
 echo "Begin processing"
 while [ true ]
@@ -15,4 +16,5 @@ do
 done
 
 
-DATA="${1}"
+
+
