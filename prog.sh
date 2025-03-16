@@ -9,7 +9,7 @@ then
 fi
 DATA="${1}"
 
-echo "Begin processing"
+echo "Begin processing now!"
 while [ true ]
 do
     :
