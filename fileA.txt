@@ -1,5 +1,5 @@
 This is the first line
 
-This 3rd line of the file
+But I'm younger and smarter so I know this 3rd line of the file
 
 this is the fifth line
