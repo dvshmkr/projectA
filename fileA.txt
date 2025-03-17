@@ -1,9 +1,8 @@
-This is the very first line
+This is the first line
 
 I'm the boss and I say it is the 2nd line of the file
 
-
-this is the fifth line
-this is line number six
-And this is line Seven (7)
+this is the third line
+this is line number forth
+And this is line five (5)
 I've added line eight!
