@@ -3,3 +3,4 @@ This is the first line
 I'm the boos and I say it is the 2nd line of the file
 
 this is the fifth line
+this is line number six
