@@ -14,3 +14,9 @@ while [ true ]
 do
     :
 done
+
+
+# Provide a function to address issue 53
+function issue53Handler() {
+    :
+}
