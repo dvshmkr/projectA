@@ -1,4 +1,4 @@
-This is the first line
+This is the very first line
 
 I'm the boss and I say it is the 2nd line of the file
 
