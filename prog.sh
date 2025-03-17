@@ -16,7 +16,7 @@ do
 done
 
 
-# Providd a function to address issue 53
+# Provide a function to address issue 53
 function issue53Handler() {
     :
 }
