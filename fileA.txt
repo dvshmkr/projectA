@@ -3,6 +3,12 @@ This is the first line
 I'm the boos and I say it is the 2nd line of the file
 
 this is the fifth line
+<<<<<<< HEAD
 this is line number six
 And this is line Seven (7)
 I've added line eight!
+=======
+It really only the forth line
+And this is line 7
+Line 8 is herein lies
+>>>>>>> editor
